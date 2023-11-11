@@ -20,14 +20,14 @@
 
 title: Michelle Chung
 #email: mchung.92@gmail.com
-description: A public record of personal thoughts related to tech, life, and learning. # this means to ignore newlines until "baseurl:"
+description: A blog about technology, engineering, art, aviation, mathematics, and other topics of personal interest. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: ""
 
 #socials
 instagram_username: 17gen_r
-github_username: hellochmi
+soundcloud_username: hellochmi
 linkedin_username: hellochmi
   
 # Build settings
