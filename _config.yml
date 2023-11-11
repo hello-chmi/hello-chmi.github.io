@@ -20,7 +20,7 @@
 
 title: Michelle Chung
 #email: mchung.92@gmail.com
-description: A public record of personal thoughts related to tech, life, and learning. Hosted by Github, built by Jekyll. # this means to ignore newlines until "baseurl:"
+description: A public record of personal thoughts related to tech, life, and learning. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: ""
