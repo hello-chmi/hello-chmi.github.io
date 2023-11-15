@@ -1,3 +1,5 @@
 # hello-chmi.github.io
-## Todo
+Repository for personal blog at [hello-chmi.github.io](https://hello-chmi.github.io/).
+
+### Todo
 - [ ] Add Soundcloud svg
