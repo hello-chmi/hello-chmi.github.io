@@ -3,3 +3,4 @@ Repository for personal blog at [hello-chmi.github.io](https://hello-chmi.github
 
 ### Todo
 - [ ] Add Soundcloud svg
+- [ ] Add 'About' section
