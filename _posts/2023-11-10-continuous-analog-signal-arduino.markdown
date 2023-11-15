@@ -6,4 +6,4 @@ tags: [microcontroller, potentiometer, hardware]
 ---
 
 
-![](https://hello-chmi.github.io/assets/circuit-pot.png)
+![](https://hello-chmi.github.io/assets/images/circuit-pot.png)
