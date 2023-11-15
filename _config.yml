@@ -22,7 +22,7 @@ title: Chasing Theta
 #email: mchung.92@gmail.com
 description: A blog about technology, engineering, art, aviation, mathematics, and other topics of personal interest. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chasingtheta.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: ""
 
 #socials
