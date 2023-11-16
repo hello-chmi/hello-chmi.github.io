@@ -29,9 +29,14 @@ void loop() {
   digitalWrite(ledPin, HIGH);
   // stop the program for <sensorValue> milliseconds:
   delay(sensorValue);
-  // turn the ledPin off:
+  // turn the ledPin off
+
   digitalWrite(ledPin, LOW);
   // stop the program for for <sensorValue> milliseconds:
   delay(sensorValue);
 }
 ```
+
+not what i was looking for--rotary encoder. it generates an electrical signal, either analog or digital, according to the rotational movement.
+
+<!--- https://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/ --->
