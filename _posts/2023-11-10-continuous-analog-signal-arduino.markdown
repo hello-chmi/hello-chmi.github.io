@@ -24,8 +24,7 @@ void setup() {
 }
 
 void loop() {
-  // read the value from the sensor:
-  sensorValue = analogRead(sensorPin);
+  sensorValue = analogRead(sensorPin); // read the value from the sensor:
   // turn the ledPin on
   digitalWrite(ledPin, HIGH);
   // stop the program for <sensorValue> milliseconds:
