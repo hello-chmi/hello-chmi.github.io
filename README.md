@@ -5,3 +5,4 @@ Repository for personal blog at [hello-chmi.github.io](https://hello-chmi.github
 - [ ] Add Soundcloud svg
 - [ ] Add 'About' section
 - [ ] Add favicon
+- [ ] Analog signal post
