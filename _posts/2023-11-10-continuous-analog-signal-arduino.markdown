@@ -5,5 +5,7 @@ date:   2023-10-24
 tags: [microcontroller, potentiometer, hardware]
 ---
 
-
+<--! from https://docs.arduino.cc/tutorials/uno-rev3/AnalogInput -->
 ![](https://hello-chmi.github.io/assets/images/circuit-pot.png)
+
+https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/
