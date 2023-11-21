@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Building a computer with Nandgame"
+date:   2023-10-24
+tags: [logic gates, binary, bit arithmetic]
+---
+
+fnjdksnfkjds
