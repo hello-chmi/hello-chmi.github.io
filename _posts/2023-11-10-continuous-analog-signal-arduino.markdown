@@ -8,6 +8,8 @@ tags: [microcontroller, potentiometer, hardware]
 This is some preview text.
 ![](https://hello-chmi.github.io/assets/images/circuit-pot.png)
 
+This is additional preview text.
+
 <!--- from https://docs.arduino.cc/tutorials/uno-rev3/AnalogInput --->
 
 <!--- https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/ --->
