@@ -10,13 +10,13 @@ Michelle is a 30-year-old perpetual dilettante who programs for money.
 
 My favorite Piet Hein grook:
 
-###The Road to Wisdom
+### The Road to Wisdom
 
-The road to wisdom? -- Well, it's plain
-and simple to express:
-           Err
-           and err
-           and err again
-           but less
-           and less
-           and less.
+The road to wisdom? -- Well, it's plain  
+and simple to express:  
+           Err  
+           and err  
+           and err again  
+           but less  
+           and less  
+           and less.  
