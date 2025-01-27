@@ -3,4 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Michelle Chung is currently a game developer at Redemption Road Games and an MSECE student at the Georgia Institute of Technology where her area of research includes DSP, embedded technologies, and PCB design. She has previously worked at IBM as a backend software engineer for distributed cybersecurity solutions.
+
+She is a self-described creative and enjoys making stuff both in analog and digital forms.
+
+The sitename "Chasing Theta" is a reference to the parameter θ used in Bayesian statistics and serves as a metaphor for the pursuit of truth.
