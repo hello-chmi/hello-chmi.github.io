@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Chasing Theta
+title: Michelle Chung
 email: mchung.92@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Chasing Theta is a blog created by Michelle Chung that features her personal projects as well as 
-  commentary on technology, art and engineering at the intersection of contemporary and historical 
+  A blog created by Michelle Chung that features her personal projects as well as 
+  thoughts on technology, art and engineering at the intersection of contemporary and historical 
   social, economic, and political issues.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "hello-chmi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
