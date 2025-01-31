@@ -28,6 +28,11 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "hello-chmi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hello-chmi
 
+# Add navigation links
+header_pages:
+  - about.md
+  - projects.md
+ 
 # Build settings
 #theme: minima
 remote_theme: jekyll/minima
